@@ -13,6 +13,7 @@ namespace DCSLCopyDirectoryApp
 {
     public partial class CopyFacility : Form
     {
+        delegate void Method(object progress);
         public CopyFacility()
         {
             InitializeComponent();
@@ -28,7 +29,10 @@ namespace DCSLCopyDirectoryApp
             SourceFolder.RootFolder = Environment.SpecialFolder.Desktop;
             DestinationFolder.RootFolder = Environment.SpecialFolder.Desktop;
         }
-
+        public void RunFunction(object progress){
+           
+                progressBar.Value = (progress as OperationProgress).Progress; 
+        }
         private void CopyButton_Click(object sender, EventArgs e)
         {
             try
@@ -38,12 +42,13 @@ namespace DCSLCopyDirectoryApp
 
                 var progress = new OperationProgress();
                 progressBar.Value = (int)progress.Progress;
-
+                
                 progress.PropertyChanged += (prog, evt) =>
                 {
                     if (evt.PropertyName.ToLower().Equals("progress"))
                     {
-                        progressBar.Value = (int)progress.Progress;
+                        Method funcToRun = RunFunction;
+                        progressBar.Invoke(funcToRun, progress);
                     } 
                 };
 

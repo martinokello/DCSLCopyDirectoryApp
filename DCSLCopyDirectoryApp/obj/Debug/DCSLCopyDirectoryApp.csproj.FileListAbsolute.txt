@@ -1,11 +1,11 @@
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.exe
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\CopyDirectoryEngine.dll
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.exe.config
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.pdb
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\CopyDirectoryEngine.pdb
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.csprojResolveAssemblyReference.cache
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.CopyFacility.resources
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.Properties.Resources.resources
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.csproj.GenerateResource.Cache
-C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.exe.config
-C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.exe
-C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\DCSLCopyDirectoryApp.pdb
-C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\CopyDirectoryEngine.dll
-C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Debug\CopyDirectoryEngine.pdb
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.exe
 C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Debug\DCSLCopyDirectoryApp.pdb

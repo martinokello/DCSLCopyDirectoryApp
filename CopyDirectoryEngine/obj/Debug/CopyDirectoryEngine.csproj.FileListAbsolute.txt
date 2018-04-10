@@ -2,4 +2,3 @@ C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\bin\Debug\CopyDirectoryEn
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\bin\Debug\CopyDirectoryEngine.pdb
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Debug\CopyDirectoryEngine.dll
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Debug\CopyDirectoryEngine.pdb
-C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Debug\CopyDirectoryEngine.csprojResolveAssemblyReference.cache

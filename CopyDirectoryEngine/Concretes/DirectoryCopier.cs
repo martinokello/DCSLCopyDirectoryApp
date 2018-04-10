@@ -66,8 +66,18 @@ namespace CopyDirectoryEngine.Concretes
 
             foreach (var dirInfo in directories)
             {
-                ( _progress as OperationProgress).Progress += (decimal)(prg * units/directories.Length);
-                var destDirectory = destinationDirectory + "//" + dirInfo.Name;
+                var prgResult = prg * units / directories.Length;
+                var currentProgress = (_progress as OperationProgress).Progress;
+                if (currentProgress + prgResult >= 100)
+                {
+                    (_progress as OperationProgress).Progress = 100;
+                }
+                else
+                {
+                    (_progress as OperationProgress).Progress = currentProgress + prgResult;
+                }
+
+                var destDirectory = destinationDirectory + "\\" + dirInfo.Name;
                 prg += 1;
                 CopyFromDirectory(dirInfo.FullName, destDirectory);
             }

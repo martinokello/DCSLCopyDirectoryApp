@@ -1,7 +1,6 @@
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Debug\CopyDirectory.UnitTests.dll
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Debug\CopyDirectory.UnitTests.pdb
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Debug\CopyDirectory.UnitTests.dll
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Debug\CopyDirectory.UnitTests.pdb
-C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Debug\CopyDirectory.UnitTests.csprojResolveAssemblyReference.cache

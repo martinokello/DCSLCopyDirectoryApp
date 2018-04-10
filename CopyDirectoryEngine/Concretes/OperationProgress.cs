@@ -12,12 +12,12 @@ namespace CopyDirectoryEngine.Concretes
 {
     public class OperationProgress : IProgress, INotifyPropertyChanged
     {
-        private decimal _progress;
+        private int _progress;
         public OperationProgress()
         {
             Progress = 0;
         }
-        public decimal Progress
+        public int Progress
         {
             get { return _progress; }
             set { _progress = value;

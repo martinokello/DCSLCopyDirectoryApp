@@ -4,4 +4,3 @@ C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Release\Microsoft
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Release\CopyDirectory.UnitTests.dll
 C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Release\CopyDirectory.UnitTests.pdb
-C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectory.UnitTests\obj\Release\CopyDirectory.UnitTests.csprojResolveAssemblyReference.cache

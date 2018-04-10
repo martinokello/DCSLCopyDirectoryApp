@@ -8,7 +8,7 @@ namespace CopyDirectoryEngine.Interfaces
 {
     public interface IProgress
     {
-        decimal Progress
+        int Progress
         {
             get; set;
         }
