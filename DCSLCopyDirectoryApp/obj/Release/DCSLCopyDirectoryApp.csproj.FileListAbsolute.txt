@@ -1,0 +1,11 @@
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Release\DCSLCopyDirectoryApp.exe.config
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Release\DCSLCopyDirectoryApp.exe
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Release\DCSLCopyDirectoryApp.pdb
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Release\CopyDirectoryEngine.dll
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\bin\Release\CopyDirectoryEngine.pdb
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.csprojResolveAssemblyReference.cache
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.CopyFacility.resources
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.Properties.Resources.resources
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.csproj.GenerateResource.Cache
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.exe
+C:\C#Projects\DCSLCopyDirectoryApp\DCSLCopyDirectoryApp\obj\Release\DCSLCopyDirectoryApp.pdb

@@ -1,0 +1,5 @@
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\bin\Release\CopyDirectoryEngine.dll
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\bin\Release\CopyDirectoryEngine.pdb
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Release\CopyDirectoryEngine.dll
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Release\CopyDirectoryEngine.pdb
+C:\C#Projects\DCSLCopyDirectoryApp\CopyDirectoryEngine\obj\Release\CopyDirectoryEngine.csprojResolveAssemblyReference.cache
