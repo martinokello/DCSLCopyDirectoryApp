@@ -20,9 +20,7 @@ namespace DCSLCopyDirectoryApp
         }
 
         private void CopyFacility_Load(object sender, EventArgs e)
-        {
-            var sourceFolder = new FolderBrowserDialog();
-            var destinationFolder = new FolderBrowserDialog(); 
+        { 
             progressBar.Value = 0;
             SourceFolder = new FolderBrowserDialog();
             DestinationFolder = new FolderBrowserDialog();
